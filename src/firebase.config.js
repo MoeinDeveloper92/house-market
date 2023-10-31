@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore"
 
 // Your web app's Firebase configuration
-
+//
 const firebaseConfig = {
     apiKey: "AIzaSyAogx9SvlXsGwG1bnIriRS25tt6Z57zu7g",
     authDomain: "house-marketplace-app-eb750.firebaseapp.com",
